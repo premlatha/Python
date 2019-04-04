@@ -7,9 +7,6 @@ Professor Charles Severance, University of Michigan.
 ## Details on Specialisation
 This specialisation is by the University of Michigan on Coursera consisting of 4 courses.
 
-### Assignment Answers
-The answers are entirely created by me. They are not the same as the suggested ones. However, they produce the same results and are roughly similar. Moreover, there are inline notes to help you to understand each step.
-
 ### Links to Archives on My Github
 1.  [Programming for Everybody (Getting Started with Python)](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)
 2.  [Python Data Structure](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)

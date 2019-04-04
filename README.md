@@ -12,9 +12,9 @@ The answers are entirely created by me. They are not the same as the suggested o
 
 ### Links to Archives on My Github
 1.  [Programming for Everybody (Getting Started with Python)](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)
-2.  Python Data Structure(https://github.com/ll0816/PythonForEverybody/tree/master/Python-Data-Structure)
-3.  Using Python for to Access Web Data(https://github.com/ll0816/PythonForEverybody/tree/master/Using-Python-2-Access-Web-Data)
-4.  Using Databases with Python(https://github.com/ll0816/PythonForEverybody/tree/master/Using-Databases-with-Python)
+2.  [Python Data Structure](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)
+3.  [Using Python for to Access Web Data](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)
+4.  [Using Databases with Python](https://github.com/premlatha/Python-for-Everybody-Specialization-Course-from-Coursera.git)
 
 ### Links to Coursera Courses by the University of Michigan
 <a href="https://www.coursera.org/specializations/python">Specialisation</a><br />

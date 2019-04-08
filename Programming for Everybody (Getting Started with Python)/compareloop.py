@@ -7,7 +7,7 @@ while True:
     try:
         inum=int(num)
     except:
-        print('Invalid Input')
+        print('Invalid input')
     if largest==None or inum > largest:
         largest=inum
     elif smallest==None or inum<smallest:
